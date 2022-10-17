@@ -1,22 +1,23 @@
 # Aplicacão Nikel
 
-Participação no 4ª Edição Codaí 2.0 - Introdução ao Desenvolvimento Web promovido pela escola Growdev, onde desenvolvi esta aplicação.
+Participação no 4ª Edição Codaí 2.0 - Introdução ao Desenvolvimento Web promovido pela escola [Growdev](https://www.growdev.com.br/), onde desenvolvi a aplicação Nikel.
 
-## Objetivo
+### Objetivo
 
-A aplicação Nikel tem por objetivo fazer controle financeiro do usuário, permitindo adicionar entradas e saídas financeiras. 
+A aplicação Nikel tem por objetivo fazer controle financeiro do usuário, permitindo adicionar entradas e saídas financeiras.
 
-## Desenvolvimento
+### Tecnologia e Ferramentas
 
-Esta aplicação foi desenvolvida utilizando HTML, CSS e JavaScript. Utilizamos o framework Bootstrap para otimizar o desenvolvimento.
+Esta aplicação foi desenvolvida utilizando HTML, CSS e JavaScript. Foi utilizado também o framework [Bootstrap](https://getbootstrap.com/) para otimizar o desenvolvimento.
 
-### Cores 
+#### Cores principais
 
 Azul principal: #4c79d3.
 
 Botão de login: #4e0070.
 
-### Projeto final [(acesse aqui)](https://larissaperinoto.github.io/AplicacaoNikel/)
+Acesse o projeto [aqui](https://larissaperinoto.github.io/AplicacaoNikel/)
+
 ![Captura de tela de 2022-04-29 20-03-05](https://user-images.githubusercontent.com/98956659/166034314-a09d7a14-5302-4252-8d06-eb7485f9dfd2.png)
 
 O usuário deve criar uma conta e posteriomente realizar o login para utilizar a aplicação.
