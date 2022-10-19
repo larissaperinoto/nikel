@@ -8,6 +8,15 @@ A aplicação Nikel tem por objetivo fazer controle financeiro do usuário, perm
 
 ### Tecnologia e Ferramentas
 
+<div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+</div>
+
+<br>
+
 Esta aplicação foi desenvolvida utilizando HTML, CSS e JavaScript. Foi utilizado também o framework [Bootstrap](https://getbootstrap.com/) para otimizar o desenvolvimento.
 
 #### Cores principais
@@ -31,3 +40,8 @@ Na tela inicial, o usuário pode adicionar lançamentos pelo botão no canto inf
 ![Captura de tela de 2022-04-29 20-06-03](https://user-images.githubusercontent.com/98956659/166030807-6a8c6415-7743-4ce8-a592-c67be893371a.png)
 
 Na página de lançamentos encontram-se todos os lançamentos cadastrados pelo usuário ordenados por data.
+
+---
+ 
+Desenvolvido por [Larissa Perinoto](www.linkedin.com/in/larissaperinoto), © 2022.
+
